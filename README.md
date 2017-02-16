@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/Thresholded_image.png "Thresholded image"
 [image4]: ./output_images/Thresholded_warped.png "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/output_images.png "Final output image"
+[image6]: ./output_images/final_result.png "Final output image"
 [image7]: ./output_images/Original_Undistorted.png "Undistorted test image"
 [image8]: ./output_images/histogram.png "Histogram"
 [image9]: ./output_images/sliding_window.png "Sliding Window"
