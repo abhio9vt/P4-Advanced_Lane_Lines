@@ -111,7 +111,7 @@ I implemented this step in the code cell 12 in my code in `P4-SDCND.ipynb` in th
 
 ####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](.videos/project_video_test.mp4)
+Here's a [link to my video result](./videos/project_video_test.mp4)
 
 ---
 
