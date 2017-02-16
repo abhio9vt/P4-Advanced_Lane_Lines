@@ -21,8 +21,8 @@ The goals / steps of this project are the following:
 [image6]: ./examples/output_images.png "Final output image"
 [image7]: ./output_images/Original_Undistorted.png "Undistorted test image"
 [image8]: ./output_images/histogram.png "Histogram"
-[image9]: ./output_images/sliding_window "Sliding Window"
-[image10]: ./output_images/searchable_area "Search region for lane lines"
+[image9]: ./output_images/sliding_window.png "Sliding Window"
+[image10]: ./output_images/searchable_area.png "Search region for lane lines"
 [video1]: ./project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
