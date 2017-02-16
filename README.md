@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image8]: ./output_images/histogram.png "Histogram"
 [image9]: ./output_images/sliding_window.png "Sliding Window"
 [image10]: ./output_images/searchable_area.png "Search region for lane lines"
-[video1]: ./videos/project_video_test.mp4 "Video"
+[video1]: https://github.com/abhio9vt/P4-Advanced_Lane_Lines/blob/master/videos/project_video_test.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
